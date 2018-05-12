@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8399
     wikipedia: http://en.wikipedia.org/wiki/John_LaFarge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43160#An-Artist-s-Letters-From-Japan
 gutenberg_issued: '2013-07-08'
 gutenberg_type: Text
 identifiers:
